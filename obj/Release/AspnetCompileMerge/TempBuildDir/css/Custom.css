@@ -1,0 +1,10 @@
+﻿
+@media (min-width: 992px) {
+    .modal-xl {
+        max-width: 90%;
+    }
+}
+
+.codewindow {
+    display: none;
+}
