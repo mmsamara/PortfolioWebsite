@@ -1,5 +1,9 @@
 ﻿.gameboy {
-    padding: 0px;
+    padding: 25px;
+}
+
+.shadow {
+    box-shadow: 0 5px 5px -5px grey;
 }
 
 @media (min-width: 992px) {
