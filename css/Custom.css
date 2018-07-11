@@ -1,4 +1,7 @@
-﻿
+﻿.gameboy {
+    padding: 0px;
+}
+
 @media (min-width: 992px) {
     .modal-xl {
         max-width: 90%;
