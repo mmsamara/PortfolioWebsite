@@ -1,5 +1,5 @@
 ﻿.gameboy {
-    padding: 25px;
+    padding: 35px;
 }
 
 .shadow {
@@ -14,4 +14,8 @@
 
 .codewindow {
     display: none;
+}
+
+#contactForm h4, #contactForm p {
+    display: inline;
 }
